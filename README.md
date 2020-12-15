@@ -1,2 +1,2 @@
 # tasks-app-demo
-This file will describe tasks application
+This file will describe tasks application.
